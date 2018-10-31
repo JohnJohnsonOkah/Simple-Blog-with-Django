@@ -1,0 +1,5 @@
+* error at the search implementation
+    - location (mysite\blog\views.py\post_search)
+    - 
+
+* style properly
